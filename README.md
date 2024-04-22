@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning MERN stack development<br>💬 Ask me about Javascript, React, Mongodb, Node.js, HTML5, Bootstrap, Css.<br>📫 How to reach me vrushalivilasnaikare@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1VTwcr4Be2KbXeYdiVPOxi36d0EAvuJH4/view?usp=sharing</p>
+<p align="left">📚 I'm currently learning** MERN stack development**<br>💬 Ask me about **Javascript, React, Mongodb, Node.js, HTML5, Bootstrap, Css.**<br>📫 How to reach me** vrushalivilasnaikare@gmail.com**<br>📄 Know about my experiences https://drive.google.com/file/d/1VTwcr4Be2KbXeYdiVPOxi36d0EAvuJH4/view?usp=sharing</p>
 
 ###
 
