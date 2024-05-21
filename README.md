@@ -11,7 +11,7 @@
 ###
 
 <p align="left">📚 I'm currently learning<b> MERN stack development</b><br>💬 Ask me about <b>Javascript, React, Mongodb, Node.js, HTML5, Bootstrap, Css.</b><br>
-  📫How to reach me[ (https://vrushalivilasnaikare@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1VTwcr4Be2KbXeYdiVPOxi36d0EAvuJH4/view?usp=sharing</p>
+  📫How to reach me vrushalivilasnaikare@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1VTwcr4Be2KbXeYdiVPOxi36d0EAvuJH4/view?usp=sharing</p>
 
 ###
 
